@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">💬 Ask me about Django, Flask, RubyOnRails, ReactJS <br><br>🌱 I’m currently learning DevOps<br><br>📫 How to reach me <a>usamaimran19980@gmail.com</a><br><br>⚡ Fun fact I don't know how to print "Hello World!"</p>
+<p align="left">💬 Ask me about Django, Flask, RubyOnRails, ReactJS <br><br>🌱 I’m currently learning DevOps<br><br>📫 How to reach me <a href="https://www.w3schools.com">Visit W3Schools.com!</a><br><br>⚡ Fun fact I don't know how to print "Hello World!"</p>
 
 ###
 
