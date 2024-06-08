@@ -6,19 +6,7 @@
 
 ###
 
-<p align="left">💬 Ask me about Django, Flask, RubyOnRails, ReactJS <br><br>🌱 I’m currently learning DevOps<br><br>📫 How to reach me <a href="usamaimran19980@gmail.com">usamaimran19980@gmail.com</a><br><br>⚡ Fun fact I don't know how to print "Hello World!"</p>
-
-###
-
-<div align="center">
-  <a href="www.linkedin.com/in/usama-imran89" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="165" height="38" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="165" height="38" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="165" height="38" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="165" height="38" alt="hackerrank logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="165" height="38" alt="whatsapp logo"  />
-</div>
+<p align="left">💬 Ask me about Django, Flask, RubyOnRails, ReactJS <br><br>🌱 I’m currently learning DevOps<br><br>📫 How to reach me <a href="usamaimran19980@gmail.com">usamaimran19980@gmail.com</a> or <a href='www.linkedin.com/in/usama-imran89'>www.linkedin.com/in/usama-imran89</a><br><br>⚡ Fun fact I don't know how to print "Hello World!"</p>
 
 ###
 
